@@ -1,0 +1,1 @@
+puts "%%%%%\nhello im a script in rails\n%%%%%"
